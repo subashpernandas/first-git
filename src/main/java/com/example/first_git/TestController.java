@@ -12,4 +12,8 @@ public class TestController  {
     public String getCall() {
         return "SUBASH-PERNANDAS-SAVARI-JESU-VIYAGULA-INNACI-ARULAYAMMAL-MARIANTHONI-KANNAN-MONISH-ARYAN";
     }
+
+    public String getCall2() {
+        return "THIS FAMILY BELONGS FROM K M KOTTAI AND WELL EDUCTAED";
+    }
 }
