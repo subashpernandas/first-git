@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/test")
+@RequestMapping("/family")
 public class TestController  {
 
     @GetMapping("/get")
     public String getCall() {
-        return "GET";
+        return "SUBASH-PERNANDAS-SAVARI";
     }
 }
